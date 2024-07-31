@@ -7,3 +7,5 @@ num2 = 10;
 
 console.log("Hello World");
 console.log(sum(num1, num2));
+
+// Merge conflict
