@@ -1,4 +1,4 @@
-## Project Tital
+## Project Title
 Blah Blah Blah Blah
 
 ## Project Descriptionn
